@@ -1,0 +1,1 @@
+Here you find the projects of the first part of the AI Nanodegree: A Sudoku solver, a planning agent for logistical problems, and a model to translate sign language into english language. The files containing the description of the projects were prepared by Udacity.
